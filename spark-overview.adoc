@@ -2,6 +2,8 @@
 
 http://spark.apache.org/[Apache Spark] is an *open-source distributed general-purpose cluster computing framework* with *in-memory data processing engine* that can do ETL, analytics, machine learning and graph processing on large volumes of data at rest (batch processing) or in motion (streaming processing) with <<unified-api, rich concise high-level APIs>> for the programming languages: Scala, Python, Java, R, and SQL.
 
+http://spark.apache.org/[Apache Spark] *是基于内存的一个开源的分布式通用计算框架*， 可以用来在海量数据上做ETL，分析， 机器学习和图计算方面的工作。 spark 支持批处理和实时处理
+
 .The Spark Platform
 image::diagrams/spark-platform.png[align="center"]
 
